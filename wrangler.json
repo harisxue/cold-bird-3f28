@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "cold-bird-3f28",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "de5f7fb5-3eee-4d73-bc26-14185e6b8e0a",
+      "database_name": "empty-snowflake-3281-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
